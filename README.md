@@ -1,5 +1,3 @@
-Certainly! Here is the set of tasks formatted in Markdown:
-
 ---
 
 # React, GraphQL and TypeScript code test
